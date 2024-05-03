@@ -1,8 +1,12 @@
 ## MongoDB_WorkShop
 
 # Setup
-ใน Folder MongoDB_WorkShop
+ที่ Terminal ใน Folder MongoDB_WorkShop
 โหลด Module
-> npm update
+```
+npm update
+```
 Start Project
-> npm start
+```
+npm start
+```
